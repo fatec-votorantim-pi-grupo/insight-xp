@@ -1,7 +1,7 @@
 # Projeto Integrador – Ciência de Dados para Negócios
 
 ## 🎯 Tema do Projeto
-Este projeto integrador tem como objetivo aplicar técnicas de **Ciência de Dados para Negócios** em uma organização real, focando na **XP Inc.**, analisando dados financeiros, de mercado e comportamentais para gerar insights estratégicos.
+Este projeto integrador tem como objetivo aplicar técnicas de **Ciência de Dados para Negócios** em uma organização real, focando na empresa **XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.**, analisando dados financeiros, de mercado e comportamentais para gerar insights estratégicos.
 
 ## 🏛 Organização Educacional
 **FATEC Votorantim** – Curso: Ciência de Dados para Negócios  
@@ -15,10 +15,10 @@ Este projeto faz parte das atividades acadêmicas do curso, promovendo a integra
   - [Rafael Martins Cardoso](https://github.com/rafacardoso17)  
   - [Renan Machado Albertini](https://github.com/Renanfatec22)  
 - **Professor Orientador:**
-  - Cassio Ricardo Fares Riedo
+  - Dr. Cassio Ricardo Fares Riedo
 
 ## 📊 Organização Estudada
-**XP Inc.** – corretora de investimentos e serviços financeiros.  
+**XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A. – CNPJ n.º 02.332.886/0001-04.**  
 O estudo irá explorar aspectos como:  
 - Desempenho financeiro  
 - Estratégias de marketing e crescimento  
