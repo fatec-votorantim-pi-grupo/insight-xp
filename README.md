@@ -13,7 +13,7 @@ Este projeto faz parte das atividades acadêmicas do curso, promovendo a integra
   - Gilberto de Souza Oliveira Junior  
   - [Marcel Monteiro Balduino](https://github.com/MBR4V0)  
   - [Rafael Martins Cardoso](https://github.com/rafacardoso17)  
-  - Renan Machado Albertini  
+  - [Renan Machado Albertini](https://github.com/Renanfatec22)  
 - **Professor Orientador:**
   - Cassio Ricardo Fares Riedo
 
