@@ -10,7 +10,7 @@ Este projeto faz parte das atividades acadêmicas do curso, promovendo a integra
 ## 👨‍💻 Equipe
 - **Alunos:**
   - Antonio Agnaldo Matos Lins  
-  - Gilberto de Souza Oliveira Junior  
+  - [Gilberto de Souza Oliveira Junior](https://github.com/Gilberto-Oliveira-7)  
   - [Marcel Monteiro Balduino](https://github.com/MBR4V0)  
   - [Rafael Martins Cardoso](https://github.com/rafacardoso17)  
   - [Renan Machado Albertini](https://github.com/Renanfatec22)  
